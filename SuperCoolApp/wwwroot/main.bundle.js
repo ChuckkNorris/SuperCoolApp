@@ -21,7 +21,7 @@ module.exports = module.exports.toString();
 /***/ 135:
 /***/ (function(module, exports) {
 
-module.exports = "<h1>Application says what?</h1>\r\n<ul *ngFor=\"let value of apiValues\">\r\n  <li>{{value}}</li>\r\n</ul>"
+module.exports = "<h1>Thanks for reading!</h1>\r\n<ul *ngFor=\"let value of apiValues\">\r\n  <li>{{value}}</li>\r\n</ul>\r\n"
 
 /***/ }),
 
