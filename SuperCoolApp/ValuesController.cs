@@ -15,7 +15,7 @@ namespace SuperCoolApp
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "Bro", "Do", "You", "Even", "Code?" };
+            return new string[] { "Bro", "Do", "You", "Even", "Code?", "CI" };
         }
 
     }
